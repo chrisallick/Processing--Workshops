@@ -21,6 +21,16 @@ Non-Making Lessons
 * What is Processing.js?
 * Processing in Sublime Text
 
+Setting Some Stuff Up
+=====================
+
+Here are the steps we'll go through to get ready
+
+* First we'll install Processing
+* We'll download the examples
+* Talk for 4 minutes about why we're here
+* Start jamming
+
 Approach
 =====================
 
