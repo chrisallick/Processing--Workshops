@@ -10,6 +10,15 @@ Things to keep in mind
 * If you've installed Processing and goofed around you probably want to wait for Workshop The Sequel or Workshop #3 The Final Fight
 * There is nothing here you cannot find somewhere on the web. This is just here to archive the class which is being taught because sometimes the only way to learn something is through an interactive trial and error approach where there is someone to help prompt you.
 
+A Very Short List of Inspirational Projects
+=====================
+
+Here are just a few projects that were done with Processing which hopefully will evoke the response "wait, THAT was done with Processing?
+
+* MIT Generative Identity - http://www.creativeapplications.net/processing/mit-media-lab-identity-processing/
+* Fragmented Memory - https://vimeo.com/71044541
+* Cascade by New York Times - http://nytlabs.com/projects/cascade.html
+
 Tools for Jamming
 =====================
 
@@ -98,3 +107,8 @@ Next Steps
 * We'll think about how to combine stuffs to make even more stuff: SpaceBrew
 * Maybe think a bit about interactivity. Is that pencil as well? (spoiler alert: yes)
 * Continue to try and re-enforce learning to learn and cut, copy, steal, create approach
+
+Other Resources
+=====================
+
+* Daniel Shiffman https://vimeo.com/channels/introcompmedia
