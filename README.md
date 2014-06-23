@@ -3,6 +3,15 @@ Processing--Workshops
 
 Thoughts for initial workshop sketches. These are for complete beginners.
 
+Non-Making Lessons
+=====================
+
+* What is Git Hub?
+* What is Git?
+* What is the terminal?
+* How do you install Processing?
+* What is Processing.js?
+
 Approach
 =====================
 
