@@ -34,7 +34,9 @@ Here are the steps we'll go through to get ready
 * First we'll install Processing
 * We'll download the examples
 * Talk for 4 minutes about why we're here
-* Start jamming
+* Start jamming through the lessons (45 minutes)
+* Hang out, bump some dope jams, snacks and I'll just walk around helping anyone
+* Share what we've made and talk about it
 
 Approach
 =====================
@@ -49,6 +51,24 @@ Each Sketch should:
 * have two optional uncoded challenges to be codded by participants: first) very simple second) slightly more complicated
 * be prefaced or followed by an idea, learning, or example that draws from the larger goal
 * link to either the Learning Processing or Processing website with follow up for deeper learning
+
+A Random List of Concepts
+===================== 
+
+* the procedure
+* the loop
+* the canvas
+* the pixel
+* x,y space
+* assets
+* the variable
+* the function
+* the object
+* setup vs runtime
+* scope
+* different ways of representing color
+* external assets: images, fonts, videos, sounds
+* retreiving data from the Internet
 
 Little Bit of Ideology/Philosphy: cut, copy, steal and create
 =====================
