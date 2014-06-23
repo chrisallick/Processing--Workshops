@@ -15,6 +15,7 @@ A Very Short List of Inspirational Projects
 
 Here are just a few projects that were done with Processing which hopefully will evoke the response "wait, THAT was done with Processing?"
 
+* 3D Printed Vinyl LP - http://www.creativeapplications.net/processing/3d-printed-record-600dpi-into-11khz-with-processing-and-modelbuilder/
 * MIT Generative Identity - http://www.creativeapplications.net/processing/mit-media-lab-identity-processing/
 * Fragmented Memory - https://vimeo.com/71044541
 * Cascade by New York Times - http://nytlabs.com/projects/cascade.html
