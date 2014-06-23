@@ -7,6 +7,7 @@ Things to keep in mind
 =====================
 
 * I am very bad at spelling.
+* If you've installed Processing and goofed around you probably want to wait for Workshop The Sequel or Workshop #3 The Final Fight
 
 Tools for Jamming
 =====================
