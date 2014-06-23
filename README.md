@@ -8,6 +8,7 @@ Things to keep in mind
 
 * I am very bad at spelling.
 * If you've installed Processing and goofed around you probably want to wait for Workshop The Sequel or Workshop #3 The Final Fight
+* There is nothing here you cannot find somewhere on the web. This is just here to archive the class which is being taught because sometimes the only way to learn something is through an interactive trial and error approach where there is someone to help prompt you.
 
 Tools for Jamming
 =====================
