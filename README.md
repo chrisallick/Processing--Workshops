@@ -3,6 +3,14 @@ Processing--Workshops
 
 Thoughts for initial workshop sketches. These are for complete beginners.
 
+Tools for Jamming
+=====================
+
+Here are the tools you'll
+
+* Processing - https://www.processing.org/
+* Sublime Text 3 - http://www.sublimetext.com/3
+
 Non-Making Lessons
 =====================
 
@@ -11,6 +19,7 @@ Non-Making Lessons
 * What is the terminal?
 * How do you install Processing?
 * What is Processing.js?
+* Processing in Sublime Text
 
 Approach
 =====================
