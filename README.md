@@ -44,3 +44,9 @@ Each Sketch should:
 * have two optional uncoded challenges to be codded by participants: first) very simple second) slightly more complicated
 * be prefaced or followed by an idea, learning, or example that draws from the larger goal
 * link to either the Learning Processing or Processing website with follow up for deeper learning
+
+Next Steps
+=====================
+
+* in the next round of workshops we'll explore creative applications of Processing
+* https://github.com/obviousjim/OFIntros
