@@ -18,6 +18,12 @@ Here are just a few projects that were done with Processing which hopefully will
 * MIT Generative Identity - http://www.creativeapplications.net/processing/mit-media-lab-identity-processing/
 * Fragmented Memory - https://vimeo.com/71044541
 * Cascade by New York Times - http://nytlabs.com/projects/cascade.html
+* Tiny Artists - http://www.runemadsen.com/work/tiny-artists-456/
+* Flight Patterns - http://www.aaronkoblin.com/work/flightpatterns/
+* The Sheep Market - http://www.aaronkoblin.com/work/thesheepmarket/
+* Grass - http://portfolio.barbariangroup.com/nextfest/index.html
+* Just Landed - http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data
+* MTV Identity - http://dmtr.org/mtv_rewind/
 
 Tools for Jamming
 =====================
