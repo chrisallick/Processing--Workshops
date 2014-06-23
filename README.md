@@ -13,7 +13,7 @@ Things to keep in mind
 A Very Short List of Inspirational Projects
 =====================
 
-Here are just a few projects that were done with Processing which hopefully will evoke the response "wait, THAT was done with Processing?
+Here are just a few projects that were done with Processing which hopefully will evoke the response "wait, THAT was done with Processing?"
 
 * MIT Generative Identity - http://www.creativeapplications.net/processing/mit-media-lab-identity-processing/
 * Fragmented Memory - https://vimeo.com/71044541
@@ -81,7 +81,7 @@ A Random List of Concepts
 * external assets: images, fonts, videos, sounds
 * retreiving data from the Internet
 
-Little Bit of Ideology/Philosphy: cut, copy, steal and create
+Little Bit of Ideology/Philosophy: cut, copy, steal, create
 =====================
 
 I'm not 100% sure about the difference between ideology and philosophy is, but just a litte bit about why we might using Processing at all. Actually, this is a good place to start. If you saw someone attempting to draw a cat, you might say to yourself, "wow, that person is awful at drawing. they should burn that drawing before it hurts someone's eyes." However, you might even say, "jeez they are holding the pencil wrong." You would not however say, "they are being creative incorrectly." You cannot be incorrectly creative and that is very beautiful thing.
