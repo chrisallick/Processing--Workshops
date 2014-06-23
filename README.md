@@ -1,4 +1,4 @@
-Processing--Workshops
+Processing Workshops
 =====================
 
 Thoughts for initial workshop sketches. These are for complete beginners.
